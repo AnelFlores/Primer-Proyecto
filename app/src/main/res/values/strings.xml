@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Catalogo de peliculas</string>
+    <string-array name="Pelicula">
+        <item>Deadpool</item>
+        <item>CivilWar</item>
+    </string-array>
 </resources>
